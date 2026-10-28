@@ -8,7 +8,7 @@ My goal is to develop strong technical expertise in electrical system design, re
 
 ## 🎓 Education
 
-- **MBA – Operations Management** | Pursuing
+- **MBA – Operations Management** | Pursuing | 2027
 - **Bachelor's Degree – Electrical Engineering** | 2024
 
 ## ⚡ Technical Skills
