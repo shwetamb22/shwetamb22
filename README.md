@@ -1,6 +1,6 @@
 # Hello, I'm Shweta 👋
 
-### Electrical Design Engineer | Solar PV & ECAD
+### Electrical Design Engineer | Solar PV & AutoCAD Electrical
 
 I am an **Electrical Engineering graduate** currently pursuing an **MBA in Operations Management**, with a career focus on **Electrical Design and Solar PV Engineering**.
 
@@ -25,7 +25,7 @@ My goal is to develop strong technical expertise in electrical system design, re
 
 - PVsyst
 - PV*SOL
-- AutoCAD Electrical / ECAD
+- AutoCAD Electrical 
 - MATLAB & Simulink
 
 **Additional Skills**
